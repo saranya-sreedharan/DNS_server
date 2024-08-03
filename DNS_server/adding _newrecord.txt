@@ -1,0 +1,8 @@
+In this Folder there are 2 files. One is creating DNS server ( dns_server_creation1.sh) 
+
+run as sudo user, eg: bash dns_server_creation1
+
+
+and adding A record in the DNS server ( dns_server_creation1.sh)
+
+run as sudo user, eg: bash dns_server_A_record_adding2.sh mnsp.co.in 10.18.20.240
